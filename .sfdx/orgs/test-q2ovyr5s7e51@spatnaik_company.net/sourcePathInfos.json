@@ -1,0 +1,32 @@
+[
+    [
+        "/Users/spatnaik/Downloads/Solutions/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1517135452733,
+            "changeTime": 1517135452733,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/spatnaik/Downloads/Solutions",
+        {
+            "state": "n",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1517135452733,
+            "changeTime": 1517135452733,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
