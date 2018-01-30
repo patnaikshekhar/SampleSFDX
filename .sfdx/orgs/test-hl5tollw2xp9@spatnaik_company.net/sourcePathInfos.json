@@ -1,0 +1,108 @@
+[
+    [
+        "/Users/spatnaik/Downloads/Solutions/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517303278602,
+            "changeTime": 1517303278602,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451"
+        }
+    ],
+    [
+        "/Users/spatnaik/Downloads/Solutions",
+        {
+            "state": "n",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1517303276672,
+            "changeTime": 1517303276672,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spatnaik/Downloads/Solutions/force-app/main/default/objects/Account/fields/dasda__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions/force-app/main/default/objects/Account/fields/dasda__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1517303278606,
+            "changeTime": 1517303278606,
+            "contentHash": "c6cd7af29b51abce001b15faae5c84561c4c1dcd"
+        }
+    ],
+    [
+        "/Users/spatnaik/Downloads/Solutions/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517303278606,
+            "changeTime": 1517303278606,
+            "contentHash": "2648c19951469a87a913a807677f61b654c9daef"
+        }
+    ],
+    [
+        "/Users/spatnaik/Downloads/Solutions/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517303278605,
+            "changeTime": 1517303278605,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/spatnaik/Downloads/Solutions/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517303278604,
+            "changeTime": 1517303278604,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/spatnaik/Downloads/Solutions/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517303278603,
+            "changeTime": 1517303278603,
+            "contentHash": "f0f7f39ec7e62249ee81dac2c3f1b3586a4fd52e"
+        }
+    ],
+    [
+        "/Users/spatnaik/Downloads/Solutions/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spatnaik/Downloads/Solutions/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517303278603,
+            "changeTime": 1517303278603,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635"
+        }
+    ]
+]
